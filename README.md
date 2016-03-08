@@ -1,12 +1,12 @@
 # Dismath_Project-0.0_Delizo
 
-## Screen 1
+
 - (DESIGNER)
-!
+- ![ScreenShot](Picture2.png)
 </br></br>
 
 - (BLOCKS)
-- ![ScreenShot](Screenshot_2.jpg)
+- ![ScreenShot](Picture3.png)
 </br></br>
 
 
