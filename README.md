@@ -2,14 +2,14 @@
 
 
 - (DESIGNER)
-- ![ScreenShot](Picture2.png)
+- ![PrintScreen](Picture2.png)
 </br></br>
 
 - (BLOCKS)
-- ![ScreenShot](Picture3.png)
+- ![PrintScreen](Picture3.png)
 </br></br>
 
 - (ANDROID)
-- ![ScreenShot](Picture4.png)
+- ![ScreenShot](Picture4.jpg)
 </br></br>
 
